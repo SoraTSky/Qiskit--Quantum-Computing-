@@ -1,0 +1,9 @@
+Jupyter Notes - 9/30/24 
+Kernel -> Restart Kernel and Run All (runs all from top down) 
+
+
+Simulator Doc- Aer 9/29/24 
+https://qiskit.github.io/qiskit-aer/tutorials/1_aersimulator.html
+
+Visualizing results 9/29/24 
+#https://docs.quantum.ibm.com/guides/visualize-results

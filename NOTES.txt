@@ -1,0 +1,20 @@
+Gates:
+X - Switches the current qubit between 0 and 1
+
+|0> -> |1>
+|1> -> |0>
+
+Y - Flipts the bit and phase
+
+|0> -> i|1>
+|1> -> -i|0>
+
+Z - Flips the phase
+
+|1> -> -|1>
+|0> stays the same
+
+H (Hadamard Gate) - puts the qubit into superposition
+
+H|0> = 1/sqrt(2) (|0> + |1>)
+H|1> = 1/sqrt(2) (|0> - |1>)
